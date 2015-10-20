@@ -1,9 +1,11 @@
 
 hi
 welcome to the world
-
+ version extended
 CARD for Travel, Fuel, Shopping.
 
 * Welcome gift worth Rs. 5,000 /-
 * Benefits worth Rs. 30,000 every year.
 * 2 Free movie tickets every month from BookMyShow.com
+
+1 this is a resource file for Mobile Banking
